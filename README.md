@@ -142,14 +142,10 @@ This project uses **SQLite3** (`db.sqlite3`) which is included in the repo for c
 ## 👥 Contributors
 
 | GitHub |
-|---|---|
 | [@arponbiswasanik](https://github.com/arponbiswasanik) | 
 | [@Hr-D-LuffY](https://github.com/Hr-D-LuffY) | 
 | [@error-makerr](https://github.com/error-makerr) | 
 
 ---
-This project is licensed under the MIT License — feel free to use, modify, and distribute.
 
----
 
-<p align="center">Built with Django 🎸 — where every item finds its price.</p>
